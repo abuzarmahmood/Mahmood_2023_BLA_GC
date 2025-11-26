@@ -1,7 +1,7 @@
 # Neural Dynamics Analysis Suite
 
 ## Overview
-This repository contains a comprehensive suite of analysis tools for investigating neural dynamics across different brain regions using electrophysiological data. The project focuses on three main areas: spike noise correlations, transition correlations, and LFP phase coherence analysis.
+This repository contains analysis code developed for the paper "Coupled Dynamics of Stimulus-Evoked Gustatory Cortical and Basolateral Amygdalar Activity" (Mahmood et al., Journal of Neuroscience, 2023). The suite provides comprehensive tools for investigating neural dynamics across different brain regions using electrophysiological data, with a focus on three main areas: spike noise correlations, transition correlations, and LFP phase coherence analysis.
 
 ## Project Structure
 
@@ -212,7 +212,10 @@ data/
 
 If you use this code in your research, please cite:
 ```
-[Citation information to be added]
+Mahmood, A., Steindler, J., Germaine, H., Miller, P., & Katz, D. B. (2023). 
+Coupled Dynamics of Stimulus-Evoked Gustatory Cortical and Basolateral Amygdalar Activity. 
+Journal of Neuroscience, 43(3), 386-404. 
+DOI: 10.1523/JNEUROSCI.1412-22.2022
 ```
 
 ## License
