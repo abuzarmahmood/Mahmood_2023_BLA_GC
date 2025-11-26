@@ -271,6 +271,7 @@ Key methodological references:
 - Escola et al. (2011). Hidden Markov models for the stimulus-response relationships of multistate neural systems. Neural Computation.
 - Linderman et al. (2016). Bayesian learning and inference in recurrent switching linear dynamical systems. AISTATS.
 - Nassar et al. (2019). Rational regulation of learning dynamics by pupil-linked arousal systems. Nature Neuroscience.
+- Mahmood et al. (2023). Coupled Dynamics of Stimulus-Evoked Gustatory Cortical and Basolateral Amygdalar Activity. Journal of Neuroscience, 43(3), 386-404. Highlights novel inter-regional coupling and distributed neural network processing during taste stimulation, revealing sudden, coordinated transitions between gustatory cortex and basolateral amygdala.
 
 ---
 
