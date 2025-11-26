@@ -29,10 +29,12 @@ Investigation of changepoint transitions across different brain regions and expe
 Analysis of local field potential (LFP) phase coherence and phase relationships across brain regions.
 
 **Key Features:**
-- Phase difference distribution analysis
-- Inter-region phase coherence calculation
-- Frequency-specific coherence analysis (including gamma band)
-- Rolling window phase coherence dynamics
+- Coupled dynamics between gustatory cortex and basolateral amygdala
+- Sudden, coordinated state transitions across brain regions
+- Epoch-specific coherence changes
+- Frequency-dependent inter-regional communication
+- Exploration of attractor network dynamics in taste processing
+- Analysis of trial-to-trial variability in neural responses
 
 ## Dependencies
 

@@ -9,6 +9,9 @@ This module provides comprehensive analysis tools for investigating local field 
 - **Definition**: Consistency of phase relationships between LFP signals across brain regions
 - **Biological Significance**: Reflects oscillatory coupling and potential information transfer pathways
 - **Frequency Specificity**: Analysis across multiple frequency bands to identify band-specific coupling
+- **Dynamic Network Interactions**: Exploration of coupled neural dynamics between brain regions
+- **Nonlinear Communication**: Investigation of sudden state transitions and epoch-specific coherence
+- **Attractor Network Dynamics**: Analysis of distributed neural processing mechanisms
 
 ### Phase Differences
 - **Inter-region Phase Differences**: Phase relationships between oscillations in different brain areas
