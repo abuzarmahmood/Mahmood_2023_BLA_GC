@@ -42,3 +42,23 @@ This directory contains scripts for analyzing local field potential (LFP) phase 
 - Focuses on inter-region LFP phase dynamics
 - Supports multi-region, multi-frequency analysis
 - Includes both original and updated analysis approaches
+
+## Directory Structure
+```
+lfp_phase_coherence/
+├── README.md
+├── original/
+│   ├── lfp_coherence_aggregate_laser.py
+│   ├── lfp_coherence_aggregate.py
+│   ├── lfp_coherence_plot.py
+│   ├── lfp_coherence_setup.py
+│   └── lfp_coherence_sig_test.py
+├── updated/
+│   ├── lfp_coherence_aggregate.py
+│   ├── lfp_coherence_sig_test.py
+│   ├── lfp_gamma_analysis.py
+│   ├── lfp_phase_difference_plots.py
+│   └── rolling_phase_coherence.py
+├── lfp_phase_diff_distribution.py
+└── lfp_phase_diff_illustration.py
+```
