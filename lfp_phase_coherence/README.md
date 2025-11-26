@@ -316,12 +316,14 @@ python original/lfp_coherence_aggregate_laser.py
 
 ## References
 
-Key methodological references:
+Developed for the analysis in:
+- **Primary Study**: Mahmood et al. (2023). Coupled Dynamics of Stimulus-Evoked Gustatory Cortical and Basolateral Amygdalar Activity. Journal of Neuroscience, 43(3), 386-404.
+
+Methodological foundations:
 - Bastos & Schoffelen (2016). A tutorial review of functional connectivity analysis methods and their interpretational pitfalls. Frontiers in Systems Neuroscience.
 - Cohen (2014). Analyzing Neural Time Series Data: Theory and Practice. MIT Press.
 - Fries (2015). Rhythms for cognition: communication through coherence. Neuron.
 - Vinck et al. (2011). An improved index of phase-synchronization for electrophysiological data in the presence of volume-conduction, noise and sample-size bias. NeuroImage.
-- Mahmood et al. (2023). Coupled Dynamics of Stimulus-Evoked Gustatory Cortical and Basolateral Amygdalar Activity. Journal of Neuroscience, 43(3), 386-404. Provides critical insights into inter-regional phase coherence, demonstrating epoch-specific changes in local field potential coherence between gustatory cortex and basolateral amygdala during taste processing.
 
 ---
 

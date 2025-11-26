@@ -204,11 +204,13 @@ Key parameters can be modified in the analysis scripts:
 
 ## References
 
-Key methodological references:
+Developed for the analysis in:
+- **Primary Study**: Mahmood et al. (2023). Coupled Dynamics of Stimulus-Evoked Gustatory Cortical and Basolateral Amygdalar Activity. Journal of Neuroscience, 43(3), 386-404.
+
+Methodological foundations:
 - Cohen & Kohn (2011). Measuring and interpreting neuronal correlations. Nature Neuroscience.
 - Averbeck et al. (2006). Neural correlations, population coding and computation. Nature Reviews Neuroscience.
 - Moreno-Bote et al. (2014). Information-limiting correlations. Nature Neuroscience.
-- Mahmood et al. (2023). Coupled Dynamics of Stimulus-Evoked Gustatory Cortical and Basolateral Amygdalar Activity. Journal of Neuroscience, 43(3), 386-404. Demonstrates trial-to-trial variability and covariance in neural responses, highlighting the importance of noise correlations in understanding distributed neural network dynamics.
 
 ---
 
